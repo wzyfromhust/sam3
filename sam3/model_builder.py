@@ -1,8 +1,9 @@
 # Copyright (c) Meta Platforms, Inc. and affiliates. All Rights Reserved
 
 import os
-import pkg_resources
 from typing import Optional
+
+import pkg_resources
 
 import torch
 import torch.nn as nn
